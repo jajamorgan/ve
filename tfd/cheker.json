@@ -4,7 +4,7 @@
   "notes": [
     "Checkbox which toggle other options will block them when it is off.",
     "Added change log.",
-    "Add settings:\n          - restore default themes (created by me)\n          - change key for toggle all window\n          - change height for Themes menu\n          - start with showed Themes or not\n          - back up to default settings",
+    "Add settings:\n          - restore default themes (created by me)\n          - change key for toggle all window\n          - change height for Themes menu\n          - start with showed script UI or not\n          - back up to default settings",
     "Changed range for 'Soft stroke intesively' from -100 to 100.",
     "A bit styles improve.",
     "Added cross brower styles.",
