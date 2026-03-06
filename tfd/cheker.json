@@ -1,1 +1,16 @@
-{"version": "2.4.0"}
+{
+  "version": "v2.4.0",
+  "date": "xx.03.2026",
+  "notes": [
+    "Checkbox which toggle other options will block them when it is off.",
+    "Added change log.",
+    "Add settings:\n          - restore default themes (created by me)\n          - change key for toggle all window\n          - change height for Themes menu\n          - start with showed Themes or not\n          - back up to default settings",
+    "Changed range for 'Soft stroke intesively' from -100 to 100.",
+    "A bit styles improve.",
+    "Added cross brower styles.",
+    "Added auto ignore when you type in ANY input.",
+    "Finished modal windows.",
+    "Fix some modal windows issues.",
+    "Fix bug with editing class."
+  ]
+}
